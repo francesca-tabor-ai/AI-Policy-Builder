@@ -1,0 +1,7 @@
+{
+  "name": "AI Policy Builder",
+  "description": "A high-end platform for designing, managing, and validating conversational AI policies with integrated Gemini simulation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
